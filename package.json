@@ -1,0 +1,13 @@
+{
+  "name": "slackbot-utils",
+  "version": "0.1.0",
+  "description": "Utilities for SlackBot",
+  "main": "index.js",
+  "author": "hoto17296",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.1.0",
+    "kuromoji": "^0.1.1",
+    "redis": "^2.6.2"
+  }
+}
