@@ -1,10 +1,14 @@
 {
-  "name": "slackbot-utils",
+  "name": "shrike-utils",
   "version": "0.1.0",
-  "description": "Utilities for SlackBot",
+  "description": "Utilities for Shrike",
   "main": "index.js",
   "author": "hoto17296",
   "license": "MIT",
+  "repository": "hoto17296/shrike-utils",
+  "engines": {
+    "node": ">= 6"
+  },
   "dependencies": {
     "cron": "^1.1.0",
     "kuromoji": "^0.1.1",
