@@ -1,6 +1,6 @@
 {
   "name": "shrike-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Utilities for Shrike",
   "main": "index.js",
   "author": "hoto17296",
